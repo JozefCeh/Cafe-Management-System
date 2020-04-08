@@ -162,9 +162,9 @@
             this.label1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.label1.Location = new System.Drawing.Point(286, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1042, 91);
+            this.label1.Size = new System.Drawing.Size(589, 91);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Cafe Management Systems";
+            this.label1.Text = "YAkup KAMAN";
             // 
             // panel2
             // 
@@ -350,9 +350,9 @@
             this.chkLatte.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.chkLatte.Location = new System.Drawing.Point(14, 13);
             this.chkLatte.Name = "chkLatte";
-            this.chkLatte.Size = new System.Drawing.Size(70, 24);
+            this.chkLatte.Size = new System.Drawing.Size(58, 24);
             this.chkLatte.TabIndex = 0;
-            this.chkLatte.Text = "Latte";
+            this.chkLatte.Text = "Çay";
             this.chkLatte.UseVisualStyleBackColor = true;
             this.chkLatte.CheckedChanged += new System.EventHandler(this.chkLatte_CheckedChanged);
             // 
